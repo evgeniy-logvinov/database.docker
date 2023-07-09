@@ -24,6 +24,8 @@ docker-compose up
 
 remove
 /var/lib/mysql/
+
+from docker gui remove volumes + images + containers
 # .ENV
 MYSQL_DATABASE=
 MYSQL_USER=
